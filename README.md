@@ -4,7 +4,7 @@
 - :computer: Currently learning back-end web developement
 - 🎶: Spending free time playing piano & oboe
 - :video_game: Hardstuck gold in League of Legends
-- :sunglasses: Loves math and problem solving, always open to a new challenge
+- :sunglasses: Loves math and problem solving, always eager for a new challenge
 - :mailbox: Reach me @tkowalski9938@gmail.com! 
 
 
