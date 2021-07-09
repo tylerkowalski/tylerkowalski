@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi 👋, I'm Tyler!
+
+### Studying Computer Science at University of Waterloo '26
+- :computer: Currently learning back-end web developement
+- 🎶: Spending free time playing piano & oboe
+- :video_game: Hardstuck gold in League of Legends
+- :sunglasses: Loves math and problem solving, always open to a new challenge
+- :mailbox: Reach me @tkowalski9938@gmail.com! 
+
+
 
 <!--
 **tkowalski9938/tkowalski9938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
