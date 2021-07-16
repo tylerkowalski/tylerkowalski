@@ -5,6 +5,7 @@
   - 😎 *Big* fan of the oboe
   - 😎😎 Even **bigger** fan of pure math
   - 😎😎😎 ***Biggest*** fan of AI/ML
+  <br/>
 - 📖 Currently taking Andrew Ng's Deep Learning Specialization Courses
 - :mailbox: Reach me @tkowalski9938@gmail.com! 
 
