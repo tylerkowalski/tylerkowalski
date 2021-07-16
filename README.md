@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tyler!
 
 ### Studying Computer Science at University of Waterloo '26
-- :computer: Currently learning front-end web developement
+- :computer: Currently taking Andrew Ng's Deep Learning Specialization Courses
 - 🎶: Spending free time playing piano & oboe
 - :video_game: Hardstuck gold in League of Legends
 - :sunglasses: Loves math and problem solving, always eager for a new challenge
