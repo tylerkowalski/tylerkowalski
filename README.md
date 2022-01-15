@@ -6,7 +6,7 @@
   - 😎😎 Even **bigger** fan of pure math
   - 😎😎😎 ***Biggest*** fan of AI/ML
   <br/>
-- 📖 Currently in 1B cS
+- 📖 Currently in 1B CS
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
