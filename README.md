@@ -1,12 +1,7 @@
 # Hi 👋, I'm Tyler!
 
 ### Studying Computer Science at University of Waterloo '26
-- Multi *fan*-ceted 😆 😆 😆
-  - 😎 *Big* fan of the oboe
-  - 😎😎 Even **bigger** fan of stats
-  - 😎😎😎 ***Biggest*** fan of AI/ML
-  <br/>
-- 📖 Currently in 1B CS
+- 📖 Currently in 2A CS
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
