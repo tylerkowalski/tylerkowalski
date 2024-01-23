@@ -2,8 +2,9 @@
 
 ### Studying Computer Science at University of Waterloo '26
 - 📖 Currently in 3A CS
-- :alien: Current projects suite:
-    - :flushed: TylerFish
+- :alien: Current Projects:
+    - :flushed: TylerFish (Chess Engine) 
+- :trollface Planned Projects:
     - :flushed: TylerOS
     - :flushed: TylerFlow
     - :flushed: TylerLLM
