@@ -3,11 +3,11 @@
 ### Studying Computer Science at University of Waterloo '26
 - 📖 Currently in 3A CS
 - :alien: Current Projects:
-    - :flushed: TylerFish (Chess Engine) 
+    - :flushed: [TylerFish](https://github.com/tkowalski9938/tylerfish) (Chess Engine) 
 - :trollface: Planned Projects:
-    - :flushed: TylerOS
-    - :flushed: TylerFlow
-    - :flushed: TylerLLM
+    - :flushed: TylerOS (to be run on Raspberry Pi)
+    - :flushed: TylerFlow (clone of Tensorflow implemented in CUDA)
+    - :flushed: TylerLLM (secret)
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
