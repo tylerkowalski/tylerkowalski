@@ -4,7 +4,7 @@
 - 📖 Currently in 3A CS
 - :alien: Current Projects:
     - :flushed: TylerFish (Chess Engine) 
-- :trollface Planned Projects:
+- :trollface: Planned Projects:
     - :flushed: TylerOS
     - :flushed: TylerFlow
     - :flushed: TylerLLM
