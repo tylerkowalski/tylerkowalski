@@ -2,6 +2,11 @@
 
 ### Studying Computer Science at University of Waterloo '26
 - 📖 Currently in 3A CS
+- :alien: Current projects suite:
+    - :flushed: TylerFish
+    - :flushed: TylerOS
+    - :flushed: TylerFlow
+    - :flushed: TylerLLM
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
