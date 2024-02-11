@@ -4,7 +4,7 @@
 - 📖 Currently in 3A CS
 - :alien: Current Projects:
     - :flushed: Learning OpenGL
-    - :flushed: [TylerFish](https://github.com/tkowalski9938/tylerfish) (Chess Engine) 
+    - :flushed: [TylerFish](https://github.com/tylerkowalski/tylerfish) (Chess Engine) 
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
