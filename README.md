@@ -2,9 +2,8 @@
 
 ### Studying Computer Science at University of Waterloo '26
 - 📖 Currently in 3A CS
-- :alien: Current Projects:
-    - :flushed: Learning OpenGL
-    - :flushed: [TylerFish](https://github.com/tylerkowalski/tylerfish) (Chess Engine) 
+- :alien: Currently:
+    - :flushed: Learning Vulkan graphics
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
