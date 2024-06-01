@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tyler!
 
 ### Studying Computer Science at University of Waterloo '26
-- 📖 Currently in 3A CS
+- 📖 Currently in 3B CS
 - :alien: Currently:
     - :flushed: Learning Vulkan graphics
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
