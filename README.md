@@ -2,8 +2,6 @@
 
 ### Studying Computer Science at University of Waterloo '26
 - 📖 Currently in 3B CS
-- :alien: Currently:
-    - :flushed: Learning Ray-Tracing
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
