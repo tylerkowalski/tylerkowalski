@@ -1,7 +1,6 @@
 # Hi 👋, I'm Tyler!
 
 ### Studying Computer Science at University of Waterloo '26
-- 📖 Currently in 3B CS
 - :mailbox: Reach me at tkowalsk@uwaterloo.ca! 
 
 
